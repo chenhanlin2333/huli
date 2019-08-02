@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hu_li_grade">
+        <item>1 完全自理</item>
+        <item>2 半自理无老年痴呆</item>
+        <item>3 半自理且老年痴呆</item>
+        <item>4 完全不能自理且老年痴呆</item>
+    </string-array>
+
+    <string-array name="marry">
+        <item>1 已婚</item>
+        <item>2 未婚</item>
+        <item>3 丧偶</item>
+    </string-array>
+
+    <string-array name="zu">
+        <item>1 汉族</item>
+        <item>2 回族</item>
+        <item>3 其他</item>
+    </string-array>
+
+    <string-array name="hu_li_help_grade">
+        <item>1 完全自理护工</item>
+        <item>2 半自理护工</item>
+        <item>3 完全不能自理护工</item>
+        <item>4 老年痴呆护工</item>
+        <item>5 老年痴呆且完全不能自理护工</item>
+        <item>6 其他护工</item>
+    </string-array>
+
+    <string-array name="hu_li_help_richen">
+        <item>1 请假</item>
+        <item>2 早班</item>
+        <item>3 中班</item>
+        <item>4 晚班</item>
+        <item>5 12小时</item>
+    </string-array>
+
+    <string-array name="huli_relative">
+        <item>1 夫妻</item>
+        <item>2 父子</item>
+        <item>3 父女</item>
+        <item>4 母子</item>
+        <item>5 母女</item>
+        <item>6 孙子</item>
+        <item>7 孙女</item>
+        <item>8 兄弟姐妹</item>
+    </string-array>
+
+
+    <string-array name="url_new">
+        <item>夜读：今天你可能错过的新闻都在这里！$$https://baijiahao.baidu.com/s?id=1636413563744331884&amp;wfr=spider&amp;for=pc</item>
+        <item>Jun 11 双语新闻精选：Nadal wins French Open 纳达尔第12次称雄法网 $$https://baijiahao.baidu.com/s?id=1636014709684150820&amp;wfr=spider&amp;for=pc</item>
+        <item>讨论 ｜ 这是一条扎心的新闻！日韩都进过世青赛决赛了，可我们呢？ $$https://baijiahao.baidu.com/s?id=1636134110232513730&amp;wfr=spider&amp;for=pc</item>
+        <item>日媒：针对钓鱼岛，日本将在石垣岛部署近万吨级巡视船 $$http://baijiahao.baidu.com/s?id=1636638733316817951</item>
+        <item>四川长宁地震已造成12死134伤 ，长宁被困14人已全部救出 $$https://3w.huanqiu.com/a/0a6319/7NBpgwBGywU?agt=8</item>
+        <item>一图前瞻习近平对朝鲜进行国事访问 $$http://www.xinhuanet.com/politics/leaders/2019-06/17/c_1124635769.htm</item>
+        <item>图集丨震中直击长宁6.0级地震后的第一夜 $$http://baijiahao.baidu.com/s?id=1636643263134801715</item>
+        <item>巴黎航空展首日空客大揽飞机订单，波音一张都没有 $$http://baijiahao.baidu.com/s?id=1636641194826349153</item>
+    </string-array>
+
+
+</resources>

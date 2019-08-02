@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chen.app_ec">
+
+    <application>
+        <activity android:name=".app_main_activity.WebViewActivity"></activity>
+        <activity android:name=".oldmaninfo.ActivityOldManInfo" />
+        <activity android:name=".require.ActivityRequireSum" />
+        <activity android:name=".require.ActivitySolveRequire" />
+        <activity android:name=".require.ActivityRequire" />
+        <activity android:name=".leaveword.ActivityLeaveword" />
+        <activity
+            android:name=".anpai.ActivityDayarrange"
+            android:launchMode="singleTop" />
+        <activity android:name=".app_main_activity.MainContentActivity" />
+        <activity android:name=".loginandregister.ActivityLogin" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.zhi_dian.provider1"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_path"></meta-data>
+        </provider>
+    </application>
+
+</manifest>
